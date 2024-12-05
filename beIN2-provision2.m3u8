@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+http://stream.mytvplus.net:7001/sport/ch2/ch2_1080.m3u8
