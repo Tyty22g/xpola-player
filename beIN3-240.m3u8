@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
+http://gcp-dash.ngslbs.com:80/TVD4001/index.mpd
