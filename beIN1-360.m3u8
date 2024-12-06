@@ -1,3 +1,6 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
 http://stream.mytvplus.net:7001/sport/ch1/ch1_720.m3u8
+#EXTINF:-1, beIN1
+#EXTVLCOPT:http-referrer=https://joyousplay.xyz/
+https://webdduit.mizhls.ru/lb/aflam1/index.m3u8
