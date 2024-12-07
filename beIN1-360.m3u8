@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1, beIN1
-https://alraqi.ddns.net/Bein1/video.m3u8?token=R5mHy1NkEw-alraqi
+#EXT-X-STREAM-INF:BANDWIDTH=8000000,RESOLUTION=3840x2160
+http://gcf.nrslist.com:80/TVD4001/index.mpd
