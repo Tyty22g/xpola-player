@@ -1,3 +1,5 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
 http://stream.mytvplus.net:7001/sport/ch3/ch3_240.m3u8
+#EXTINF:-1, beIN 5 1080
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/ch5_1080.m3u8
