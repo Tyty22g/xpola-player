@@ -3,3 +3,5 @@
 http://stream.mytvplus.net:7001/sport/ch3/ch3_240.m3u8
 #EXTINF:-1, beIN 5 1080
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/ch5_1080.m3u8
+#EXTINF:-1, ya1
+http://splus.smartres.net/live/65787/54353/46953.m3u8
