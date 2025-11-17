@@ -3,3 +3,6 @@ EXTM3U
 http://splus.smartres.net/live/65787/54353/46956.m3u8
 #EXTINF:-1, y1
 http://splus.smartres.net/live/65787/54353/46953.m3u8
+EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=480x720
+http://splus.smartres.net/live/65787/54353/46953.m3u8
