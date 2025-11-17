@@ -3,3 +3,6 @@ http://splus.smartres.net/live/65787/54353/46953.m3u8
 #EXTINF:-1, y1hgh
 #EXTVLCOPT:http-player-type=m3u
 http://splus.smartres.net/live/65787/54353/46953.m3u8
+EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=480x720
+http://splus.smartres.net:80/live/65787/54353/46948.m3u8
